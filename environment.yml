@@ -14,3 +14,4 @@ dependencies:
   - r-ggally
   - r-ggcorrplot
   - r-mosaic
+  - octave_kernel
