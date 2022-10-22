@@ -15,3 +15,6 @@ dependencies:
   - r-ggcorrplot
   - r-mosaic
   - octave_kernel
+  - gnuplot
+  - octave
+  - texinfo
