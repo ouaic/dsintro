@@ -1,4 +1,4 @@
 #!/bin/bash
 set -e
 rm -f  [0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9][0-9]
-rm -f README.md apt.txt environment.yml postBuild Manifest.toml
+rm -f README.md apt.txt environment.yml requirements.txt postBuild
