@@ -1,3 +1,5 @@
 fonts-noto-cjk
 fonts-noto-cjk-extra
 libglu1
+ffmpeg
+portaudio19
