@@ -1,19 +1,6 @@
 channels:
   - conda-forge
 dependencies:
-  - numpy
-  - scipy
-  - matplotlib
-  - pandas
-  - seaborn
-  - statsmodels
-  - scikit-learn
-  - tensorflow
-  - pydub
-  - SpeechRecognition
-  - opencv-python
-  - pocketsphinx
-  - openai
   - r-base
   - r-essentials
   - r-tidyverse
@@ -21,4 +8,3 @@ dependencies:
   - r-ggally
   - r-ggcorrplot
   - r-mosaic
-  - texinfo
