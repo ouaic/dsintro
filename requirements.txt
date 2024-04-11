@@ -11,3 +11,4 @@ SpeechRecognition
 opencv-python
 pocketsphinx
 openai
+QtPy
