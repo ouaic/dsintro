@@ -8,6 +8,7 @@ dependencies:
   - r-ggally
   - r-ggcorrplot
   - r-mosaic
+  - pip
   - pip:
     - numpy
     - scipy
