@@ -15,6 +15,7 @@ dependencies:
   - pocketsphinx
   - openai
   - qtpy
+  - japanize-matplotlib
   - r-base
   - r-essentials
   - r-tidyverse
