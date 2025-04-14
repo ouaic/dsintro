@@ -16,6 +16,7 @@ dependencies:
   - openai
   - qtpy
   - japanize-matplotlib
+  - simpleaudio
   - r-base
   - r-essentials
   - r-tidyverse
