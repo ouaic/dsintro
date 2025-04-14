@@ -15,7 +15,6 @@ dependencies:
   - pocketsphinx
   - openai
   - qtpy
-  - japanize-matplotlib
   - simpleaudio
   - r-base
   - r-essentials
@@ -24,3 +23,6 @@ dependencies:
   - r-ggally
   - r-ggcorrplot
   - r-mosaic
+  - pip
+  - pip:
+    - japanize-matplotlib
